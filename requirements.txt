@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+spacy
+tensorflow
+textblob
+scikit-learn
+# nltk.download('punkt')
+# nltk.download('stopwords')
+# python -m spacy download en_core_web_sm
+# python -m spacy download en_core_web_sm
