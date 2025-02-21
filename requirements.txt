@@ -5,7 +5,9 @@ spacy
 tensorflow
 textblob
 scikit-learn
+# import nltk
 # nltk.download('punkt')
 # nltk.download('stopwords')
+# nltk.download('brown')
 # python -m spacy download en_core_web_sm
 # python -m spacy download en_core_web_sm
